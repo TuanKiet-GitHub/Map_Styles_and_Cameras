@@ -1,0 +1,2 @@
+rootProject.name = "Custom Android Map Styles, Dark Mode and Cameras"
+include ':app'
